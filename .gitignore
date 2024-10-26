@@ -2,6 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,cmake,visualstudiocode
 
 compile_flags.txt
+build/
 
 ### C ###
 # Prerequisites
